@@ -1,0 +1,20 @@
+{
+  "technicalSkills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "PHP", "Git"],
+  "softSkills": ["Teamwork", "Leadership", "Task Planning", "Time Management"],
+  "projects": [
+    {
+      "title": "FadeToBlack",
+      "description": "Led the development of a comprehensive management platform for a company, handling both front-end and back-end. The platform streamlined internal processes and improved operational efficiency.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "liveDemo": "https://fade2black.es/",
+      "image": "images/portadaFTB.png"
+    },
+    {
+      "title": "The Evenest",
+      "description": "Designed and developed this personal portfolio to showcase my skills and projects. Built with HTML, CSS, and JavaScript, featuring a responsive design and smooth navigation.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "liveDemo": "https://theevenest.es/",
+      "image": "images/portadaEVNST.png"
+    }
+  ]
+}
